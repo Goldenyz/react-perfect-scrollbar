@@ -1,6 +1,6 @@
 # React-Perfect-Scrollbar [![Build Status](https://travis-ci.org/goldenyz/react-perfect-scrollbar.svg?branch=master)](https://travis-ci.org/goldenyz/react-perfect-scrollbar) [![npm](https://img.shields.io/npm/v/react-perfect-scrollbar.svg?style=flat-square)](https://www.npmjs.com/package/react-perfect-scrollbar) [![npm downloads](https://img.shields.io/npm/dm/react-perfect-scrollbar.svg)](https://www.npmjs.com/package/react-perfect-scrollbar)
 
-This is a wrapper to allow use [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) in React.
+This is a wrapper to allow use [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar) in React.
 
 ***To read documentation for versions < 1.0, please visit [`v0.2.5`](https://github.com/goldenyz/react-perfect-scrollbar/tree/v0.2.5).***
 
@@ -26,8 +26,8 @@ Wrap you content in this component:
 ### Props
 The following props are accepted:
 #### options
-The optional parameters used to initialize [perfect-scrollbar](https://github.com/utatti/perfect-scrollbar).
-For more info, please refer to  https://github.com/utatti/perfect-scrollbar#options
+The optional parameters used to initialize [perfect-scrollbar](https://github.com/mdbootstrap/perfect-scrollbar).
+For more info, please refer to  https://perfectscrollbar.com/options.html
 
 This prop previously was called "option", but has since been renamed.
 If you provide "option" as a prop, it will be used unless "options" is also passed.
